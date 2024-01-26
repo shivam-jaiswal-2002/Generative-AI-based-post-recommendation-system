@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+langchain-openai
+wikipedia
+tiktoken 
+chromadb
